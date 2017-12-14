@@ -1,2 +1,2 @@
-subdir/*
+subdir/subdir/
 fileToIgnore.js
